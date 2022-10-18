@@ -1,1 +1,1 @@
-#### archlinux xfce setup
+#### archlinux light xfce setup
