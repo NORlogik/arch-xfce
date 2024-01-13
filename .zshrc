@@ -8,6 +8,12 @@ unsetopt nomatch
 PROMPT=$'\n''%B%F{230}%~ ::  | %b%f'
 RPROMPT="[%h]"
 
+#PS1=$'\n''%B%F{230}%n@%m:%~ ::  | %b%f'
+#RPROMPT="[%h]"
+
+#PS1=$'\n''%B%F{15}%m:%n:%~ ❯ %b%f'
+#RPROMPT="[%h]"
+
 alias x='startx'
 alias Scc="sudo pacman -Scc"
 
